@@ -1,0 +1,249 @@
+!             
+banner exec *
+banner exec *
+banner exec *
+banner exec                                        ########
+banner exec                                      ############
+banner exec                                     ##############
+banner exec                                    ################
+banner exec                                    ################
+banner exec               #                   ##################                   #
+banner exec               ##                  ##################                  ##
+banner exec               ##                  ##################                 ###
+banner exec               ###                 ##################                 ##
+banner exec               ####                #####  ####  #####                ###
+banner exec                ####               ####   ###    ####               ####
+banner exec                #####              ###    ###    ####              ####
+banner exec                 #####             ###    ####   ###              #####
+banner exec                 ######            #################             #####
+banner exec                  ######           ######## ########            ######
+banner exec                  #######          #######  #######            ######
+banner exec                   #######           ##############           ######
+banner exec                    #######            #########             #######
+banner exec                     #######          ############          #######
+banner exec                      #######         ############         #######
+banner exec                       #######        ############        #######
+banner exec                        #######       ##       ###      ########
+banner exec                         ########     ###########      ########
+banner exec                          ########    ###########     ########
+banner exec                           #########   #########    #########
+banner exec                            ##########  #######   #########
+banner exec                              #########          #########
+banner exec                               ##########      ##########
+banner exec                                 ##########  ##########
+banner exec                          ###     ###################     ###
+banner exec                         ####      ################      ####
+banner exec                           ###       ##############      ####
+banner exec                            ###   ####################  ####
+banner exec                            ############## ################
+banner exec                    ###################### #######################
+banner exec                    ###################        ######### #########
+banner exec                    ######### ## ##                ##### #########
+banner exec                     ####      ###                    ###     ####
+banner exec                       ##      ####  #            #  ###       ##
+banner exec                                ######            ######
+banner exec                                 #####            #####
+banner exec * 
+banner exec *
+banner exec *
+banner exec      @@!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!@@
+banner exec      #   YOU ARE ENTERING A CONTROLLED SYSTEM. UNLAWFUL ENTRY INTO THIS     #
+banner exec      #     SYSTEM BY INDIVIDUALS, NOT SPECIFICALLY AUTHORIZED, IS A         #
+banner exec      #         CRIMINAL OFFENSE. VIOLATORS WILL BE PROSECUTED.              #
+banner exec      @@!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!@@
+banner exec *
+banner exec *
+banner exec         BITE MY ASS!!
+banner exec                        GO AWAY!!
+banner exec                                   NO TRASPASSING!!
+banner exec                                                     STAY OUT OF MY SANDBOX!!
+banner exec *
+banner exec *
+banner exec *
+banner exec  ----------------------------------------------------------------------------
+banner exec                                
+banner exec                               ||        ||
+banner exec 
+banner exec                               ||        ||
+banner exec 
+banner exec                              ||||      ||||
+banner exec   
+banner exec                          ..:||||||:..:||||||:..
+banner exec 
+banner exec                          c i s c o S y s t e m s 
+banner exec 
+banner exec                         Private Internet eXchange
+banner exec 
+banner exec  ----------------------------------------------------------------------------
+banner exec 
+banner exec                            Cisco PIX Firewall
+banner exec *
+banner exec *
+banner exec *
+banner exec *
+banner exec 
+banner exec *
+banner exec *
+banner exec      @@!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!@@
+banner exec      @   YOU ARE ENTERING A CONTROLLED SYSTEM. UNLAWFUL ENTRY INTO THIS     @
+banner exec      @     SYSTEM BY INDIVIDUALS, NOT SPECIFICALLY AUTHORIZED, IS A         @
+banner exec      @         CRIMINAL OFFENSE. VIOLATORS WILL BE PROSECUTED.              @
+banner exec      @@!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!@@
+banner exec *
+banner exec                                        ___
+banner exec                                      {~._.~}
+banner exec                                       ( Y )
+banner exec                                      ()~*~()
+banner exec                                      (_)-(_)
+banner exec *
+banner exec *
+banner exec !!!WARNING!!!WARNING!!!!!!WARNING!!!!!!WARNING!!!!!!WARNING!!!!!!WARNING!!!!!!WARNING!!!!!!WARNING!!! 
+banner exec *
+banner exec THIS SYSTEM IS OWNED BY HORUS, SON OF OSIRIS (THE GOD OF DEATH) AND ISIS(GODDESS OF MAGIC).
+banner exec                                     **********     ********** 
+banner exec *
+banner exec ANY UNAUTHORIZED ACCESS AND USE OF THIS SYSTEM IS NOT PERMITTED AND IS STRICTLY PROHIBITED 
+banner exec                                            BY HORUS.
+banner exec *
+banner exec WHO LOST AN EYE WHEN BATTLING SET (GOD OF STORMS, SLAYER OF APEP, EQUAL TO AND RIVAL OF HORUS),
+banner exec                                     THE MURDERER OF OSIRIS.
+banner exec *
+banner exec ALL UNAUTHORIZED USERS ARE SUBJECT TO CRIMINAL AND CIVIL PENALTIES, POLICIES AS WELL AS
+banner exec                                    STATE AND FEDERAL LAWS.
+banner exec *
+banner exec !!!WARNING!!!WARNING!!!!!!WARNING!!!!!!WARNING!!!!!!WARNING!!!!!!WARNING!!!!!!WARNING!!!!!!WARNING!!! 
+banner exec *
+banner exec *                                      .--.
+banner exec                                       |o_o |
+banner exec                                       |:_/ |
+banner exec                                      //   \ \
+banner exec                                     (|     | )
+banner exec                                    /'\_   _/`\
+banner exec                                    \___)=(___/
+banner exec *
+banner exec *
+banner exec *
+banner exec *
+banner exec *
+banner exec *
+banner exec                                        ########
+banner exec                                      ############
+banner exec                                     ##############
+banner exec                                    ################
+banner exec                                    ################
+banner exec               #                   ##################                   #
+banner exec               ##                  ##################                  ##
+banner exec               ##                  ##################                 ###
+banner exec               ###                 ##################                 ##
+banner exec               ####                #####  ####  #####                ###
+banner exec                ####               ####   ###    ####               ####
+banner exec                #####              ###    ###    ####              ####
+banner exec                 #####             ###    ####   ###              #####
+banner exec                 ######            #################             #####
+banner exec                  ######           ######## ########            ######
+banner exec                  #######          #######  #######            ######
+banner exec                   #######           ##############           ######
+banner exec                    #######            #########             #######
+banner exec                     #######          ############          #######
+banner exec                      #######         ############         #######
+banner exec                       #######        ############        #######
+banner exec                        #######       ##       ###      ########
+banner exec                         ########     ###########      ########
+banner exec                          ########    ###########     ########
+banner exec                           #########   #########    #########
+banner exec                            ##########  #######   #########
+banner exec                              #########          #########
+banner exec                               ##########      ##########
+banner exec                                 ##########  ##########
+banner exec                          ###     ###################     ###
+banner exec                         ####      ################      ####
+banner exec                           ###       ##############      ####
+banner exec                            ###   ####################  ####
+banner exec                            ############## ################
+banner exec                    ###################### #######################
+banner exec                    ###################        ######### #########
+banner exec                    ######### ## ##                ##### #########
+banner exec                     ####      ###                    ###     ####
+banner exec                       ##      ####  #            #  ###       ##
+banner exec                                ######            ######
+banner exec                                 #####            #####
+banner exec *
+banner exec *
+banner exec *
+banner exec      @@!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!@@
+banner exec      #   YOU ARE ENTERING A CONTROLLED SYSTEM. UNLAWFUL ENTRY INTO THIS     #
+banner exec      #     SYSTEM BY INDIVIDUALS, NOT SPECIFICALLY AUTHORIZED, IS A         #
+banner exec      #         CRIMINAL OFFENSE. VIOLATORS WILL BE PROSECUTED.              #
+banner exec      @@!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!@@
+banner exec *
+banner exec *
+banner exec         BITE MY ASS!!
+banner exec                        GO AWAY!!
+banner exec                                   NO TRASPASSING!!
+banner exec                                                     STAY OUT OF MY SANDBOX!!
+banner exec *
+banner exec *
+banner exec *
+banner exec  ----------------------------------------------------------------------------
+banner exec                                
+banner exec                               ||        ||
+banner exec   
+banner exec                               ||        ||
+banner exec 
+banner exec                              ||||      ||||
+banner exec 
+banner exec                          ..:||||||:..:||||||:..
+banner exec 
+banner exec                          c i s c o S y s t e m s 
+banner exec 
+banner exec                         Private Internet eXchange
+banner exec 
+banner exec  ----------------------------------------------------------------------------
+banner exec 
+banner exec                            Cisco PIX Firewall
+banner exec *
+banner exec *
+banner exec *
+banner exec *
+banner exec 
+banner exec *
+banner exec *
+banner exec      @@!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!@@
+banner exec      @   YOU ARE ENTERING A CONTROLLED SYSTEM. UNLAWFUL ENTRY INTO THIS     @
+banner exec      @     SYSTEM BY INDIVIDUALS, NOT SPECIFICALLY AUTHORIZED, IS A         @
+banner exec      @         CRIMINAL OFFENSE. VIOLATORS WILL BE PROSECUTED.              @
+banner exec      @@!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!@@
+banner exec *
+banner exec                                        ___
+banner exec                                      {~._.~}
+banner exec                                       ( Y )
+banner exec                                      ()~*~()
+banner exec                                      (_)-(_)
+banner exec *
+banner exec *
+banner exec !!!WARNING!!!WARNING!!!!!!WARNING!!!!!!WARNING!!!!!!WARNING!!!!!!WARNING!!!!!!WARNING!!!!!!WARNING!!! 
+banner exec *
+banner exec THIS SYSTEM IS OWNED BY HORUS, SON OF OSIRIS (THE GOD OF DEATH) AND ISIS (GODDESS OF MAGIC).
+banner exec                                     **********     ********** 
+banner exec *
+banner exec ANY UNAUTHORIZED ACCESS AND USE OF THIS SYSTEM IS NOT PERMITTED AND IS STRICTLY PROHIBITED 
+banner exec                                            BY HORUS.
+banner exec *
+banner exec WHO LOST AN EYE WHEN BATTLING SET (GOD OF STORMS, SLAYER OF APEP, EQUAL TO AND RIVAL OF HORUS),
+banner exec                                     THE MURDERER OF OSIRIS.
+banner exec *
+banner exec ALL UNAUTHORIZED USERS ARE SUBJECT TO CRIMINAL AND CIVIL PENALTIES, POLICIES AS WELL AS
+banner exec                                    STATE AND FEDERAL LAWS.
+banner exec *
+banner exec !!!WARNING!!!WARNING!!!!!!WARNING!!!!!!WARNING!!!!!!WARNING!!!!!!WARNING!!!!!!WARNING!!!!!!WARNING!!! 
+banner exec *
+banner exec *                                      .--.
+banner exec                                       |o_o |
+banner exec                                       |:_/ |
+banner exec                                      //   \ \
+banner exec                                     (|     | )
+banner exec                                    /'\_   _/`\
+banner exec                                    \___)=(___/
+banner exec *
+banner exec *
+banner exec *
