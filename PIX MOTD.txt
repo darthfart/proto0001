@@ -1,0 +1,303 @@
+
+
+
+
+
+
+
+
+
+banner exec * 
+banner exec * 
+banner exec * 
+banner exec                          _____________________________________
+banner exec                       _ |            KEEP OUT                 | _
+banner exec                      / )|                                     |( \
+banner exec                     / / |                                     | \ \
+banner exec                   _( (_ |        Security/Firewall            | _) )_
+banner exec                  (((\ \>|_/ )_____________________________( \_|</ /)))
+banner exec                   \\\\ \_/ /                               \ \_/ ////
+banner exec                    \      /                                 \      /
+banner exec                     \   _/                                   \_   /
+banner exec                     /  /                                       \  \ 
+banner exec * 
+banner exec * 
+banner exec *
+banner exec      @@!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!@@
+banner exec      @   YOU ARE ENTERING A CONTROLLED SYSTEM. UNLAWFUL ENTRY INTO THIS     @
+banner exec      @     SYSTEM BY INDIVIDUALS, NOT SPECIFICALLY AUTHORIZED, IS A         @
+banner exec      @         CRIMINAL OFFENSE. VIOLATORS WILL BE PROSECUTED.              @
+banner exec      @@!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!@@
+banner exec * 
+banner exec * 
+banner exec * 
+banner exec  \
+banner exec  \-\
+banner exec   \-\-                                                    
+banner exec    \-- \-                                                  
+banner exec     \  - -\                                               
+banner exec      \      \\                                            
+banner exec       \       \                                           
+banner exec        \       \\                                              
+banner exec         \        \\                                           
+banner exec         \          \\                                       
+banner exec         \           \\\                                     
+banner exec          \            \\                                                 
+banner exec           \            \\                                             
+banner exec           \. .          \\                                 
+banner exec            \    .       \\                                
+banner exec             \      .    \\                                            
+banner exec              \       .  \\                                
+banner exec              \         . \\                                          
+banner exec              \            <=)                                        
+banner exec              \            <==)                                        
+banner exec              \            <=)                                          
+banner exec               \           .\\                                           _-
+banner exec               \         .   \\                                        _-//
+banner exec                \       .     \\                                     _-_/ /
+banner exec                \ . . .        \\                                 _--_/ _/
+banner exec                 \              \\                              _- _/ _/
+banner exec                 \               \\                      ___-(O) _/ _/
+banner exec                 \                \                  __--  __   /_ /      ***********************************
+banner exec                 \                 \\          ____--__----  /    \_              I AM A PTERODACTYL!
+banner exec                  \                  \\       -------       /   \_  \_            !!!!!!KEEP OUT!!!!!
+banner exec                   \                   \                  //   // \__ \_  
+banner exec                    \                   \\              //   //      \_ \_ **********************************
+banner exec                     \                   \\          ///   //          \__-
+banner exec                     \                -   \\/////////    //           
+banner exec                     \            -         \_         //             
+banner exec                     /        -                      //               
+banner exec                    /     -                       ///                 
+banner exec                   /   -                       //                      
+banner exec              __--/                         ///
+banner exec   __________/                            // |              
+banner exec //-_________      ___                ////  |               
+banner exec         ____\__--/                /////    |               
+banner exec    -----______    -/---________////        |               
+banner exec      _______/  --/    \                   |                
+banner exec    /_________-/       \                   |                
+banner exec   //                  \                   /                
+banner exec                        \.                 /                
+banner exec                        \     .            /                
+banner exec                         \       .        /                 
+banner exec                        \\           .    /                 
+banner exec                         \                /                 
+banner exec                         \              __|                 
+banner exec                         \              ==/                 
+banner exec                         /              //                  
+banner exec                         /          .  //                    
+banner exec                         /   .  .    //                     
+banner exec                        /.           /                      
+banner exec                       /            //                      
+banner exec                       /           /
+banner exec                      /          //
+banner exec                     /         //
+banner exec                  --/         /
+banner exec                 /          //
+banner exec             ////         //
+banner exec          ///_________////
+banner exec * 
+banner exec * 
+banner exec *
+banner exec      @@!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!@@
+banner exec      @   YOU ARE ENTERING A CONTROLLED SYSTEM. UNLAWFUL ENTRY INTO THIS     @
+banner exec      @     SYSTEM BY INDIVIDUALS, NOT SPECIFICALLY AUTHORIZED, IS A         @
+banner exec      @         CRIMINAL OFFENSE. VIOLATORS WILL BE PROSECUTED.              @
+banner exec      @@!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!@@
+banner exec * 
+banner exec * 
+banner exec *
+banner exec ___________________________________o88888o
+banner exec _________________________88o_____o88888888
+banner exec _______________________o888o___o8888888888
+banner exec _______o888ooo________o8888o_888888888888
+banner exec __ooo8888888888888___88888888888888888888
+banner exec ___*88888888888888o_88888888888888888888
+banner exec ___o8888888888888__88888888888888888888
+banner exec __o8888888888888__88888888888888888888
+banner exec ___88888888888*__888888888888888888*
+banner exec ______*88888*___888888888888888*
+banner exec _______888888__88888888888888*
+banner exec ______o88888888888888888888*
+banner exec ____o888888888888888888888888888888888888888oo
+banner exec ___8888888888888888888888888888888888888888888o
+banner exec _o8888888888888888888888888888888888888888888*
+banner exec 888888888888888888888888888888888888888888**
+banner exec *8888888888888888888888888888888**
+banner exec _*88888888888*_88888
+banner exec __8888888888*___*8888
+banner exec __8888888888_____88888o
+banner exec __*888888888o_____88888o
+banner exec ___88888888888_____*8888o
+banner exec ___*888888888888o___*8888o
+banner exec ____*8888888888888o___*888o
+banner exec _____*88888888888888____8888
+banner exec _______8888888888888o____*888
+banner exec ________888888888888______*888o
+banner exec _________8888888888*_______*8888
+banner exec _________*8888888888oo______*888
+banner exec __________*8888888888888o
+banner exec ___________*88888888888888o
+banner exec ____________*888888888888888o
+banner exec ______________88888888___8888o
+banner exec _______________8888888_o88888
+banner exec _______________*8888888888*
+banner exec _________________8888888*
+banner exec __________________88888888888o
+banner exec ___________________88888888__*o
+banner exec ____________________8888888o
+banner exec _____________________8888888
+banner exec ______________________8888888
+banner exec ______________________*8888888
+banner exec ______________________888888888oo
+banner exec ______________________888__888888o
+banner exec _____________________o88___88888
+banner exec _____________________*_____8888
+banner exec __________________________o88
+banner exec * 
+banner exec * 
+banner exec * 
+banner exec                          _____________________________________
+banner exec                       _ |            KEEP OUT                 | _
+banner exec                      / )|                                     |( \
+banner exec                     / / |                                     | \ \
+banner exec                   _( (_ |        Security/Firewall            | _) )_
+banner exec                  (((\ \>|_/ )_____________________________( \_|</ /)))
+banner exec                   \\\\ \_/ /                               \ \_/ ////
+banner exec                    \      /                                 \      /
+banner exec                     \   _/                                   \_   /
+banner exec                     /  /                                       \  \ 
+banner exec *
+banner exec *
+banner exec *
+banner exec                                        ########
+banner exec                                      ############
+banner exec                                     ##############
+banner exec                                    ################
+banner exec                                    ################
+banner exec               #                   ##################                   #
+banner exec               ##                  ##################                  ##
+banner exec               ##                  ##################                 ###
+banner exec               ###                 ##################                 ##
+banner exec               ####                #####  ####  #####                ###
+banner exec                ####               ####   ###    ####               ####
+banner exec                #####              ###    ###    ####              ####
+banner exec                 #####             ###    ####   ###              #####
+banner exec                 ######            #################             #####
+banner exec                  ######           ######## ########            ######
+banner exec                  #######          #######  #######            ######
+banner exec                   #######           ##############           ######
+banner exec                    #######            #########             #######
+banner exec                     #######          ############          #######
+banner exec                      #######         ############         #######
+banner exec                       #######        ############        #######
+banner exec                        #######       ##       ###      ########
+banner exec                         ########     ###########      ########
+banner exec                          ########    ###########     ########
+banner exec                           #########   #########    #########
+banner exec                            ##########  #######   #########
+banner exec                              #########          #########
+banner exec                               ##########      ##########
+banner exec                                 ##########  ##########
+banner exec                          ###     ###################     ###
+banner exec                         ####      ################      ####
+banner exec                           ###       ##############      ####
+banner exec                            ###   ####################  ####
+banner exec                            ############## ################
+banner exec                    ###################### #######################
+banner exec                    ###################        ######### #########
+banner exec                    ######### ## ##                ##### #########
+banner exec                     ####      ###                    ###     ####
+banner exec                       ##      ####  #            #  ###       ##
+banner exec                                ######            ######
+banner exec                                 #####            #####
+banner exec *
+banner exec *
+banner exec *
+banner exec      @@!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!@@
+banner exec      #   YOU ARE ENTERING A CONTROLLED SYSTEM. UNLAWFUL ENTRY INTO THIS     #
+banner exec      #     SYSTEM BY INDIVIDUALS, NOT SPECIFICALLY AUTHORIZED, IS A         #
+banner exec      #         CRIMINAL OFFENSE. VIOLATORS WILL BE PROSECUTED.              #
+banner exec      @@!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!@@
+banner exec *
+banner exec *
+banner exec * 
+banner exec         BITE MY ASS!!
+banner exec                        GO AWAY!!
+banner exec                                   NO TRASPASSING!!
+banner exec                                                     STAY OUT OF MY SANDBOX!!
+banner exec *
+banner exec *
+banner exec *
+banner exec  ----------------------------------------------------------------------------
+banner exec                            Cisco PIX Firewall
+banner exec                               ||        ||
+banner exec                               ||        ||
+banner exec                              ||||      ||||
+banner exec                          ..:||||||:..:||||||:..
+banner exec 
+banner exec                          c i s c o S y s t e m s 
+banner exec 
+banner exec                         Private Internet eXchange
+banner exec  ----------------------------------------------------------------------------
+banner exec *
+banner exec *
+banner exec *
+banner exec 
+banner exec      @@!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!@@
+banner exec      @   YOU ARE ENTERING A CONTROLLED SYSTEM. UNLAWFUL ENTRY INTO THIS     @
+banner exec      @     SYSTEM BY INDIVIDUALS, NOT SPECIFICALLY AUTHORIZED, IS A         @
+banner exec      @         CRIMINAL OFFENSE. VIOLATORS WILL BE PROSECUTED.              @
+banner exec      @@!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!@@
+banner exec *
+banner exec * 
+banner exec * 
+banner exec                                        ___
+banner exec                                      {~._.~}
+banner exec                                       ( Y )
+banner exec                                      ()~*~()
+banner exec                                      (_)-(_)
+banner exec *
+banner exec *
+banner exec * 
+banner exec !!!WARNING!!!WARNING!!!!!!WARNING!!!!!!WARNING!!!!!!WARNING!!!!!!WARNING!!!!!!WARNING!!!!!!WARNING!!! 
+banner exec 
+banner exec *
+banner exec THIS SYSTEM IS OWNED BY HORUS, SON OF OSIRIS (THE GOD OF DEATH) AND ISIS (GODDESS OF MAGIC).
+banner exec                                     **********     ********** 
+banner exec *
+banner exec ANY UNAUTHORIZED ACCESS AND USE OF THIS SYSTEM IS NOT PERMITTED AND IS STRICTLY PROHIBITED 
+banner exec                                            BY HORUS.
+banner exec *
+banner exec WHO LOST AN EYE WHEN BATTLING SET (GOD OF STORMS, SLAYER OF APEP, EQUAL TO AND RIVAL OF HORUS),
+banner exec                                     THE MURDERER OF OSIRIS.
+banner exec * 
+banner exec ALL UNAUTHORIZED USERS ARE SUBJECT TO CRIMINAL AND CIVIL PENALTIES, POLICIES AS WELL AS
+banner exec                                    STATE AND FEDERAL LAWS.
+banner exec *
+banner exec !!!WARNING!!!WARNING!!!!!!WARNING!!!!!!WARNING!!!!!!WARNING!!!!!!WARNING!!!!!!WARNING!!!!!!WARNING!!! 
+banner exec *
+banner exec * 
+banner exec *                                      .--.
+banner exec                                       |o_o |
+banner exec                                       |:_/ |
+banner exec                                      //   \ \
+banner exec                                     (|     | )
+banner exec                                    /'\_   _/`\
+banner exec                                    \___)=(___/
+banner exec * 
+banner exec * 
+banner exec * 
+banner exec                          _____________________________________
+banner exec                       _ |            KEEP OUT                 | _
+banner exec                      / )|                                     |( \
+banner exec                     / / |                                     | \ \
+banner exec                   _( (_ |        Security/Firewall            | _) )_
+banner exec                  (((\ \>|_/ )_____________________________( \_|</ /)))
+banner exec                   \\\\ \_/ /                               \ \_/ ////
+banner exec                    \      /                                 \      /
+banner exec                     \   _/                                   \_   /
+banner exec                     /  /                                       \  \ 
+banner exec * 
+banner exec * 
+banner exec * 
